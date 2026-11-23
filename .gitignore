@@ -1,4 +1,18 @@
 # Prerequisites
+.pio/
+.pio-core/
+.cache/
+build/
+sdkconfig
+sdkconfig.old
+sdkconfig.esp32-s3
+sdkconfig.esp32-s3.old
+logs/
+monitor-*.log
+.vscode/
+.DS_Store
+__pycache__/
+
 *.d
 
 # Object files
